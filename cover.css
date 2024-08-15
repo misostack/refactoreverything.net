@@ -54,8 +54,8 @@ body {
 
 .bg-2024{
   background-image: url('happy-new-year-2024.webp');
-  background-size: auto 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #8a0303;
+  background-color: green;
 }
